@@ -13,8 +13,8 @@
             "pem": "../../wallet/wallet-owner.pem",
             "gas-limit": 60000000,
             "arguments": [
-                1000000000000000000,
-                600
+                10000000000000000,
+                120
             ],
             "send": true,
             "outfile": "deploy-testnet.interaction.json"
